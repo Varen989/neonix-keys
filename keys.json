@@ -1,7 +1,4 @@
 {
-  "1Min-neonix-TEST1": 0.0007,
-  "7Day-neonix-ABCD": 7,
-  "Pros-neonix-VIP99": 9999
   "7Day-neonix-A1B2C": 7,
   "7Day-neonix-D3E4F": 7,
   "7Day-neonix-G5H6I": 7,
@@ -24,14 +21,14 @@
   "30Day-neonix-C7D8E": 30,
   "30Day-neonix-F9G0H": 30,
 
-  "Pros-neonix-ULT001": 9999,
-  "Pros-neonix-ULT002": 9999,
-  "Pros-neonix-ULT003": 9999,
-  "Pros-neonix-ULT004": 9999,
-  "Pros-neonix-ULT005": 9999,
-  "Pros-neonix-ULT006": 9999,
-  "Pros-neonix-ULT007": 9999,
-  "Pros-neonix-ULT008": 9999,
-  "Pros-neonix-ULT009": 9999,
-  "Pros-neonix-ULT010": 9999
+  "PERM-neonix-ULT001": 9999,
+  "PERM-neonix-ULT002": 9999,
+  "PERM-neonix-ULT003": 9999,
+  "PERM-neonix-ULT004": 9999,
+  "PERM-neonix-ULT005": 9999,
+  "PERM-neonix-ULT006": 9999,
+  "PERM-neonix-ULT007": 9999,
+  "PERM-neonix-ULT008": 9999,
+  "PERM-neonix-ULT009": 9999,
+  "PERM-neonix-ULT010": 9999
 }
